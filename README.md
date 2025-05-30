@@ -52,18 +52,6 @@
 | -------- | ---------- | ----- | ---------------------- |
 | 34ABC123 | 2025-05-31 | 14:32 | Çöp atma tespit edildi |
 
-## 🔐 Güvenlik ve Yasal Uyum
-
-* Veriler şifrelenerek saklanır
-* 2FA kullanıcı doğrulama
-* KVKK ve GDPR uyumluluğu sağlanmıştır
-
-## 🧹 Gelecekteki Geliştirmeler
-
-* Gece ve kötü hava koşulları için veri çeşitliliği artırılmalı
-* Diğer şehirlerde entegrasyon için taşınabilir altyapı
-* Bulut tabanlı otomasyon ve API desteği
-
 ## 👥 Ekip
 
 * **Cihat Erensoy**
