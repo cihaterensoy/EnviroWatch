@@ -13,7 +13,7 @@
 
 ## 🧠 Kullanılan Teknolojiler
 
-* **YOLOv8 & YOLOv11** – Nesne ve plaka tespiti için
+* **YOLOv11** – Nesne ve plaka tespiti için
 * **Tesseract OCR** – Plaka üzerindeki yazıların okunması
 * **OpenCV** – Görüntü işleme
 * **PyTorch / TensorFlow** – Derin öğrenme
